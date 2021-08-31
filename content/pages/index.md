@@ -141,10 +141,6 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    image:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      type: ImageBlock
     form:
       idAttr: lorem-ipsum
       action: lorem-ipsum
